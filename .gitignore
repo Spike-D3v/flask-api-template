@@ -2,6 +2,7 @@
 /env
 
 # Local Config
+/instance
 
 # Logs
 /logs
