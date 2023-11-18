@@ -1,0 +1,22 @@
+# Deps
+/env
+
+# Local Config
+
+# Logs
+/logs
+.log
+
+# Environment
+.env
+
+# Caché
+**/.pytest_cache
+**/__pycache__
+
+# Editor
+/.idea
+/.vscode
+
+# User Media
+/media
